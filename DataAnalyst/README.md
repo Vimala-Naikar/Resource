@@ -6,24 +6,6 @@ A comprehensive collection of practical examples and reference code for importin
 first part is in ipynb note in GitHub - function in csv 
 chuck help to reduce load in ram 
 
-
-4. [Exporting Data](https://www.google.com/search?q=%23exporting-data)
-* [CSV](https://www.google.com/search?q=%23csv)
-* [Excel (Single & Multi-Sheet)](https://www.google.com/search?q=%23excel-single--multi-sheet)
-* [HTML & JSON](https://www.google.com/search?q=%23html--json)
-* [SQL Databases](https://www.google.com/search?q=%23sql-databases)
-
-
-5. [Fetching Data via REST APIs](https://www.google.com/search?q=%23fetching-data-via-rest-apis)
-6. [Web Scraping with BeautifulSoup](https://www.google.com/search?q=%23web-scraping-with-beautifulsoup)
-7. [Workflow Best Practices](https://www.google.com/search?q=%23workflow-best-practices)
-
----
-
-## Overview
-
-This repository serves as a guide for data extraction, transformation, and storage[cite: 1]. It covers techniques to optimize memory usage using chunking[cite: 1], fetch paginated data from REST APIs[cite: 1], set up MySQL connections via XAMPP[cite: 1], and perform automated web scraping with standard HTTP user headers[cite: 1].
-
 ---
 
 ## Prerequisites & Requirements
