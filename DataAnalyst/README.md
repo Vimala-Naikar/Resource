@@ -3,16 +3,8 @@
 A comprehensive collection of practical examples and reference code for importing, exporting, fetching via APIs, and web scraping data using **Python**, **Pandas**, **SQLAlchemy**, **MySQL**, and **BeautifulSoup**.
 
 ---
-
-## Table of Contents
-
-1. [Overview](https://www.google.com/search?q=%23overview)
-2. [Prerequisites & Requirements](https://www.google.com/search?q=%23prerequisites--requirements)
-3. [Reading Data](https://www.google.com/search?q=%23reading-data)
-* [CSV and Delimited Files](https://www.google.com/search?q=%23csv-and-delimited-files)
-* [Excel Files](https://www.google.com/search?q=%23excel-files)
-* [JSON Files & Web URLs](https://www.google.com/search?q=%23json-files--web-urls)
-* [SQL Databases (XAMPP / MySQL)](https://www.google.com/search?q=%23sql-databases-xampp--mysql)
+first part is in ipynb note in GitHub - function in csv 
+chuck help to reduce load in ram 
 
 
 4. [Exporting Data](https://www.google.com/search?q=%23exporting-data)
